@@ -1,0 +1,4 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Domain\bin\Debug\GL.CursoMvc.Domain.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Domain\bin\Debug\GL.CursoMvc.Domain.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Domain\obj\Debug\GL.CursoMvc.Domain.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Domain\obj\Debug\GL.CursoMvc.Domain.pdb

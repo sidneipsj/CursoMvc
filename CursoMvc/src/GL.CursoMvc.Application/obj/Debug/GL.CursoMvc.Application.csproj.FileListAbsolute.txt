@@ -1,0 +1,13 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Application.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Application.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Domain.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Infra.Data.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\EntityFramework.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Domain.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\GL.CursoMvc.Infra.Data.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\EntityFramework.xml
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\obj\Debug\GL.CursoMvc.Application.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\obj\Debug\GL.CursoMvc.Application.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\obj\Debug\GL.CursoMvc.Application.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\AutoMapper.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Application\bin\Debug\AutoMapper.xml

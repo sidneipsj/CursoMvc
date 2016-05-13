@@ -1,0 +1,15 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\GL.CursoMvc.Infra.Data.dll.config
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\GL.CursoMvc.Infra.Data.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\GL.CursoMvc.Infra.Data.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\obj\Debug\GL.CursoMvc.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\obj\Debug\GL.CursoMvc.Infra.Data.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\obj\Debug\GL.CursoMvc.Infra.Data.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\GL.CursoMvc.Domain.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\GL.CursoMvc.Domain.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\Dapper.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Curso Edu Pires - ASP.NET MVC 5 - Enterprise Applications\CursoMvc\src\GL.CursoMvc.Infra.Data\bin\Debug\Dapper.xml

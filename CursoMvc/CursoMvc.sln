@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{65025791-914A-438A-99A9-09C332A8882C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{37C4BC56-714E-431F-94B4-D331C7BE2061}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{48041CB5-F3A4-46E4-B103-6B2D86554631}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{5956D545-77FF-46C2-BA44-54E61663F25A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infra", "5 - Infra", "{79C98BEC-38B6-4F9E-B5D5-E53DAF7F21AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - Data", "5.1 - Data", "{CC9A860A-53FC-4920-9510-E1EC507B71AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - CrossCutting", "5.2 - CrossCutting", "{57FA44FA-4B5F-452B-AFA8-6ACF660C1111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.CursoMvc.UI.Mvc", "src\GL.CursoMvc.UI.Mvc\GL.CursoMvc.UI.Mvc.csproj", "{1D03397A-2214-4792-AB2F-910566632287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.CursoMvc.Domain", "src\GL.CursoMvc.Domain\GL.CursoMvc.Domain.csproj", "{3B840E79-A442-493C-9C1E-6614C3E999F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.CursoMvc.Infra.Data", "src\GL.CursoMvc.Infra.Data\GL.CursoMvc.Infra.Data.csproj", "{13A55600-0FBE-4F6C-AD28-04A71216EDE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.CursoMvc.Application", "src\GL.CursoMvc.Application\GL.CursoMvc.Application.csproj", "{C647F87A-8099-4931-BC32-ECB65ABBD2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.CursoMvc.Infra.CrossCutting.MvcFilters", "src\GL.CursoMvc.Infra.CrossCutting.MvcFilters\GL.CursoMvc.Infra.CrossCutting.MvcFilters.csproj", "{51591AB1-EF72-4704-9952-C393298E73C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D03397A-2214-4792-AB2F-910566632287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D03397A-2214-4792-AB2F-910566632287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D03397A-2214-4792-AB2F-910566632287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D03397A-2214-4792-AB2F-910566632287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B840E79-A442-493C-9C1E-6614C3E999F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B840E79-A442-493C-9C1E-6614C3E999F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B840E79-A442-493C-9C1E-6614C3E999F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B840E79-A442-493C-9C1E-6614C3E999F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A55600-0FBE-4F6C-AD28-04A71216EDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A55600-0FBE-4F6C-AD28-04A71216EDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A55600-0FBE-4F6C-AD28-04A71216EDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A55600-0FBE-4F6C-AD28-04A71216EDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C647F87A-8099-4931-BC32-ECB65ABBD2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C647F87A-8099-4931-BC32-ECB65ABBD2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C647F87A-8099-4931-BC32-ECB65ABBD2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C647F87A-8099-4931-BC32-ECB65ABBD2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51591AB1-EF72-4704-9952-C393298E73C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51591AB1-EF72-4704-9952-C393298E73C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51591AB1-EF72-4704-9952-C393298E73C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51591AB1-EF72-4704-9952-C393298E73C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC9A860A-53FC-4920-9510-E1EC507B71AE} = {79C98BEC-38B6-4F9E-B5D5-E53DAF7F21AE}
+		{57FA44FA-4B5F-452B-AFA8-6ACF660C1111} = {79C98BEC-38B6-4F9E-B5D5-E53DAF7F21AE}
+		{1D03397A-2214-4792-AB2F-910566632287} = {65025791-914A-438A-99A9-09C332A8882C}
+		{3B840E79-A442-493C-9C1E-6614C3E999F4} = {5956D545-77FF-46C2-BA44-54E61663F25A}
+		{13A55600-0FBE-4F6C-AD28-04A71216EDE2} = {CC9A860A-53FC-4920-9510-E1EC507B71AE}
+		{C647F87A-8099-4931-BC32-ECB65ABBD2EF} = {48041CB5-F3A4-46E4-B103-6B2D86554631}
+		{51591AB1-EF72-4704-9952-C393298E73C8} = {57FA44FA-4B5F-452B-AFA8-6ACF660C1111}
+	EndGlobalSection
+EndGlobal
